@@ -1,0 +1,7 @@
+$name =array("rakin",100,"skkowsar", "zain");
+ if (in_array("rkin",$name)){
+echo "found";
+}
+else{
+echo"not found";
+}

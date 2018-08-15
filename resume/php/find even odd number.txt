@@ -1,0 +1,8 @@
+$number = 12;
+if($number%2==0){
+  echo "number is even" ;
+}
+elseif($number%2==1){
+  echo "number is odd" ;
+
+}

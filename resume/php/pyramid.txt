@@ -1,0 +1,16 @@
+$height = 5;
+
+for($i=1;$i<=$height;$i++){
+
+    for($t = 1;$t <= $height-$i;$t++)
+    {
+        echo "&nbsp;&nbsp;";
+    }
+
+    for($j=1;$j<=$i;$j++)
+    {
+        // use &nbsp; here to procude space after each asterix
+        echo "*&nbsp;&nbsp;";
+    }
+echo "<br />";
+}

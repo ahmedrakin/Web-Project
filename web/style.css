@@ -1,0 +1,79 @@
+* {margin:0;padding:0;}
+body {color:#666;font-family:arial;font-size:15px;line-height:20px}
+a,a:hover{font-style:bold}
+h1,h2,h3{color:#002E3D;font-size:15px;}
+
+.fix{overflow:hidden}
+.floatleft{float:left}
+.floatright{float:right}
+.structure{width:960px;margin:0 auto;display:block;}
+
+
+.header_area{margin-bottom:9px;}
+.header{background:#002E3D}
+.header-top{margin-bottom:5px}
+.logo{margin-left:75px;}
+.side_menu{margin-top:10px;margin-bottom:5px;margin-right:75px}
+
+.search{background:#00181E}
+.header_menu {margin:5px}
+.header_menu ul{margin:0;padding:0;list-style:none}
+.header_menu ul li{float:left;margin-right:10px;padding:5px}
+.header_menu ul li a{color: #fff;
+padding: 3px 10px;
+text-decoration: none;}
+.header_menu ul li a:hover{background:url(images/header_menu_bg.PNG)#000;color:#fff;border-radius:5px}
+.slider img{border: 4px solid #056c8b;
+border: 4px solid #056c8b;
+margin-left: 127px;}
+
+.down_menu {background-color:#02465B;
+margin-bottom: 7px;
+margin-left: 162px;
+width: 639px;}
+.down_menu ul {
+  list-style: outside none none;
+  margin: -5px;
+  padding: 0;
+}.down_menu ul li{float:left;background:url(images/seperator.PNG) no-repeat scroll right center}
+.down_menu ul li:last-child{background:none}
+.down_menu ul li a {color: #fff;display: block; padding: 11px 23px;text-decoration: none;}
+.down_menu ul li a:hover{background:url(images/down_menu_bg.PNG)#fff repeat-x;margin-right:10px;display:block}
+.content_area{}
+.content{margin-left:75px}
+.content p{width:380px;margin-bottom:5px}
+
+.content{}
+.content h1{margin-bottom:5px;border-bottom:1px dotted #000}
+.logo_content {
+  width: 405px;
+  margin-left: 57px;
+  }
+  .logo_content{}
+  .logo_content h1{margin-bottom:5px;border-bottom:1px dotted #000}
+
+.content_images{float: left;
+width: 40px;}
+.content_images img{margin-bottom:10px;margin-bottom:72px}
+.logo_content_para{}
+.logo_content_para p{margin-bottom:10px;margin-bottom:47px}
+
+.social_bookmarks{margin-top:10;width:35px}
+.social_bookmarks img{margin-left:10px;margin-bottom:5px}
+.recent_work_area{}
+
+.recent_work{}
+.recent_work h1{margin-bottom:5px;border-bottom:1px dotted #000;margin-left:75px;width:380px}
+.recent_work img{margin-right:11px}
+.side_images{margin-left:75px;width:380px}
+.customer_image{width:335}
+.customer_image h1{margin-bottom:5px;border-bottom:1px dotted #000;}
+.customer_image img{}
+.footer_area{}
+.footer{background:#002430}
+.footer_top{width:380px}
+.menu_area{}
+.footer_top_middle{}
+.footer_menu{}
+.contact_us{}
+.footer_bottom{}

@@ -1,0 +1,49 @@
+body{
+	background-image:url(../images/jens-kreuter-57188.jpg);
+	background-repeat:no-repeat;
+    background-position: center;
+	background-size: auto;
+	
+}
+.content{
+	background-color: rgba(0,0,0,0.7);
+    color: white;
+    padding: 100px;
+    height: 3000;
+    width: 1000;
+    margin: 300px auto;}
+.nav{
+	    width: 700px;
+    height: auto;
+    background-color: gray;
+    position: absolute;
+    top: 17%;
+    left: 1500px;
+	
+}
+.nav a{
+	text-decoration: none;
+    font-size: 92px;
+    font-weight: bold;
+	font-family:verdana;
+	width :100%;
+	height:90px;
+	margin:5px 0;
+	float:left;
+	display:inline-block;
+	background-color:black;
+	color:white;
+	line-height:90px;
+	text-align:center;
+
+
+}
+a.active, .nav a:hover{
+	background-color:white;
+	color:black;
+}
+.profile{
+	border-radius:50%;
+}
+.social{
+margin-left:336px;

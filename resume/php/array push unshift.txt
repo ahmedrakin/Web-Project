@@ -1,0 +1,4 @@
+$name =array("rakin",100,"skkowsar", "zain");
+array_push($name,"nana");
+print_r($name);
+echo $name[4];
